@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="carpart:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7b8ee87-2faf-4cf0-981d-575998d0e9fc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carpart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/carpart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/CompanyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/CompanyMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/CompanyMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/CompanyMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/BrandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/BrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/BrandServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc/mail.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc/redis.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-cache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-mail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-redis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-shiro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/com/xiupeilian/carpart/mapper/CompanyMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/com/xiupeilian/carpart/mapper/CompanyMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/com/xiupeilian/carpart/mapper/CompanyMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/com/xiupeilian/carpart/mapper/CompanyMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/com/xiupeilian/carpart/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/com/xiupeilian/carpart/service/BrandService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/com/xiupeilian/carpart/service/impl/BrandServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/com/xiupeilian/carpart/service/impl/BrandServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/carpart-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/base/BaseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/cache/RedisCache$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/cache/RedisCache$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/cache/RedisCache$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/cache/RedisCache$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/cache/RedisCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/constant/SysConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/controller/PublicItemsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/controller/StaffController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/BrandMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/BrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/CityMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/CityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/CollectionsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/CollectionsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/CompanyMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/CompanyMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/DymsnMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/DymsnMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/ItemsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/ItemsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/MenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/NewsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/NewsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/NoticeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/NoticeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/PartsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/PartsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/PrimeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/PrimeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/RoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/SysUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/mapper/SysUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Brand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Collections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Dymsn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/News.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Notice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Parts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/model/SysUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/BrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/CityService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/DymsnService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/ItemsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/StaffService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/impl/BrandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/impl/CityServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/impl/DymsnServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/impl/ItemsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/impl/MenuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/impl/StaffServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/servlet/Kaptcha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/session/SessionIntercepter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/session/UserRealm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/task/MailTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/util/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/util/SHA1Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/vo/LoginVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiupeilian/carpart/vo/RegisterVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc/mail.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc/redis.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis/mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rebel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-cache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-mail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-redis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-shiro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xiupeilian/carpart/AppTest.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/login/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kaptcha.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/servlet/Kaptcha.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/util/ImageUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/html/1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysUserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/SysUserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysUserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/SysUserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3306">
+              <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/MenuMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3770">
+              <caret line="130" column="42" selection-start-line="130" selection-start-column="42" selection-end-line="130" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemsMapper.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/ItemsMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="235" column="9" lean-forward="true" selection-start-line="145" selection-start-column="95" selection-end-line="235" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompanyController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/CompanyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2175">
+              <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\!DOCTYPE html PUBLIC \&quot;\-\/\/W3C\/\/DTD XHTML 1\.0 Transitional\/\/EN\&quot; \&quot;http\:\/\/www\.w3\.org\/TR\/xhtml1\/DTD\/xhtml1\-transitional\.dtd\&quot;\&gt;\n\&lt;\%\@ page contentType\=\&quot;text\/html\;charset\=UTF\-8\&quot;\%\&gt;\n\&lt;\%\@ taglib uri\=\&quot;http\:\/\/java\.sun\.com\/jsp\/jstl\/core\&quot; prefix\=\&quot;c\&quot;\%\&gt;\n\&lt;\%\@ taglib uri\=\&quot;http\:\/\/java\.sun\.com\/jsp\/jstl\/fmt\&quot; prefix\=\&quot;fmt\&quot;\%\&gt;\n\&lt;\%\@ taglib uri\=\&quot;http\:\/\/java\.sun\.com\/jsp\/jstl\/functions\&quot; prefix\=\&quot;fn\&quot;\%\&gt;\n\n\&lt;html\&gt;\n\&lt;head\&gt;\n\&lt;title\&gt;公共货架\&lt;\/title\&gt;\n\&lt;meta name\=\&quot;decorator\&quot; content\=\&quot;default\&quot; \/\&gt;\n\&lt;link href\=\&quot;\$\{ctx\}\/css\/index\.css\&quot; rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; \/\&gt;\n\&lt;script type\=\&quot;text\/javascript\&quot; src\=\&quot;\$\{ctx\}\/js\/jquery\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\!\-\- 基于jquery的树形插件  ztree \-\-\&gt;\n\&lt;script src\=\&quot;\$\{ctx\}\/js\/treeTable\/jquery\.treeTable\.js\&quot;\n\	type\=\&quot;text\/javascript\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;\$\{ctx\}\/js\/zTree\/js\/jquery\.ztree\.core\-3\.5\.js\&quot;\n\	type\=\&quot;text\/javascript\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;link href\=\&quot;\$\{ctx\}\/js\/zTree\/css\/zTreeStyle\/zTreeStyle\.css\&quot;\n\	rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; \/\&gt;\n\&lt;link href\=\&quot;\$\{ctx\}\/js\/treeTable\/themes\/vsStyle\/treeTable\.css\&quot;\n\	rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; \/\&gt;\n\&lt;SCRIPT type\=\&quot;text\/javascript\&quot;\&gt;\n\n\n        \/\/配置信息\n        var setting \= \{\n            view\: \{\n                dblClickExpand\: false\,\n                selectedMulti\:false\n            \}\,\n            data\: \{\n                simpleData\: \{\n                    enable\: true\n                \}\n            \}\,\n            callback\: \{\n                \/\/beforeClick\: beforeClick\,\n                onClick\: onClick\n            \}\n        \}\;\n        \/\/数据源 使用c标签循环拼接json\n        var zNodes \=\[\n            \&lt;c\:forEach items\=\&quot;\$\{brandList\}\&quot; var\=\&quot;menu\&quot;\&gt;\{id\:\&quot;\$\{menu\.id\}\&quot;\, pId\:\&quot;\$\{menu\.parentId\}\&quot;\, name\:\&quot;\$\{menu\.chineseName\}\&quot;\}\,\n            \&lt;\/c\:forEach\&gt;\]\n\n\n        \/\/点击事件\n        function onClick\(e\, treeId\, treeNode\) \{\n        \	\/\/获取整个树的对象\n            var zTree \= \$\.fn\.zTree\.getZTreeObj\(\&quot;menuTree\&quot;\)\,\n                    \/\/获取被选中的节点对象\n                    nodes \= zTree\.getSelectedNodes\(\)\,\n                    v \= \&quot;\&quot;\;\n\n             \/\/alert\(nodes\[0\]\.name\+\&quot; \&quot;\+nodes\[0\]\.mid\)\;\n           var nName\=nodes\[0\]\.name\;\n            var nId\=nodes\[0\]\.id\;\n\n\n            nodes\.sort\(function compare\(a\,b\)\{return a\.id\-b\.id\;\}\)\;\n            for \(var i\=0\, l\=nodes\.length\; i\&lt;l\; i\+\+\) \{\n                v \+\= nodes\[i\]\.name \+ \&quot;\,\&quot;\;\n            \}\n            if \(v\.length \&gt; 0 \) v \= v\.substring\(0\, v\.length\-1\)\;\n            \/\/cityObj\.attr\(\&quot;value\&quot;\, v\)\;\n\	\	\	\/\/存品牌名称的输入框\n            var textInputBrand \= \$\(\&quot;\#parentMenuObj\&quot;\)\;\n            \/\/存品牌id的隐藏域\n            var hiddenInputBrandId \= \$\(\&quot;\#parentId\&quot;\)\;\n\n            textInputBrand\.val\(nName\)\;\n            hiddenInputBrandId\.val\(nId\)\;\n\n            hideMenu\(\)\;\n        \}\n         \/\/展示菜单\n        function showMenu\(\) \{\n            var cityObj \= \$\(\&quot;\#parentMenuObj\&quot;\)\;\n            var cityOffset \= \$\(\&quot;\#parentMenuObj\&quot;\)\.offset\(\)\;\n            \$\(\&quot;\#menuContent\&quot;\)\.css\(\{left\:cityOffset\.left \+ \&quot;px\&quot;\, top\:cityOffset\.top \+ cityObj\.outerHeight\(\) \+ \&quot;px\&quot;\}\)\.slideDown\(\&quot;fast\&quot;\)\;\n\n            \$\(\&quot;body\&quot;\)\.bind\(\&quot;mousedown\&quot;\, onBodyDown\)\;\n\n        \}\n        function hideMenu\(\) \{\n            \$\(\&quot;\#menuContent\&quot;\)\.fadeOut\(\&quot;fast\&quot;\)\;\n            \$\(\&quot;body\&quot;\)\.unbind\(\&quot;mousedown\&quot;\, onBodyDown\)\;\n        \}\n        function onBodyDown\(event\) \{\n            if \(\!\(event\.target\.id \=\= \&quot;menuBtn\&quot; \|\| event\.target\.id \=\= \&quot;menuContent\&quot; \|\| \$\(event\.target\)\.parents\(\&quot;\#menuContent\&quot;\)\.length\&gt;0\)\) \{\n                hideMenu\(\)\;\n            \}\n        \}\n         \n        \/\*\*\n         初始化ztree\n        \*\/\n        \$\(document\)\.ready\(function\(\)\{\n            var tree\=\$\.fn\.zTree\.init\(\$\(\&quot;\#menuTree\&quot;\)\, setting\, zNodes\)\;\n            tree\.expandAll\(true\)\;\n            \/\/找到上次查询的节点\（\）\n             var node \= tree\.getNodeByParam\(\&quot;id\&quot;\, \&quot;\$\{items\.brandId\}\&quot;\)\;\n             \/\/让上次选中的节点\，被选中\n            tree\.selectNode\(node\)\; \n            \n            \/\/try\{tree\.checkNode\(node\, true\, false\)\;\}catch\(e\)\{\}\n        \}\)\;\n        \/\/\-\-\&gt;\n        \n        \n        function searchList\(\)\{\n        var form \= \$\(\&quot;\#searchPublicForm\&quot;\)\;\n        form\.submit\(\)\;\n    \}\n\n    \&lt;\/SCRIPT\&gt;\n\n\&lt;script type\=\&quot;text\/javascript\&quot;\&gt;\n    \$\(\'\.hnavmore li a\'\)\.click\(function\(e\)\{\n        var val \= \$\(this\)\.text\(\)\;\n        var data_val \= \$\(this\)\.attr\(\'data\-value\'\)\;\n        \$\(this\)\.parents\(\'\.hnavmore\'\)\.find\(\'input\'\)\.val\(data_val\)\;\n        \$\(this\)\.parents\(\'\.hnavmore\'\)\.find\(\'\.cur\-span\'\)\.text\(val\)\;\n    \}\)\;\n    \n\	function productgroupedit\(id\) \{\n\	\	\	\$\.jBox\(\&quot;iframe\:\$\{ctx\}\/salecommodityDetatail\.action\?id\=\&quot;\+id\, \{\n\	\	\	title \: \&quot;商品详情\&quot;\,\n\	\	\	attach\: \$\(\'\#idett\'\)\,\n\	\	\	width \: 1020\,\n\	\	\	height \: 700\,\n\	\	\	buttons \: \{ \/\*\'关闭\'\: true\*\/\}\n\	\	\}\)\;\n\	\}\n\&lt;\/script\&gt;\n\n\n\&lt;style type\=\&quot;text\/css\&quot;\&gt;\nul\.ztree \{\n\	margin\-top\: 10px\;\n\	border\: 1px solid \#617775\;\n\	background\: \#f0f6e4\;\n\	width\: 220px\;\n\	height\: 230px\;\n\	overflow\-y\: scroll\;\n\	overflow\-x\: auto\;\n\}\n\nul\.log \{\n\	border\: 1px solid \#617775\;\n\	background\: \#f0f6e4\;\n\	width\: 300px\;\n\	height\: 170px\;\n\	overflow\: hidden\;\n\}\n\nul\.log\.small \{\n\	height\: 45px\;\n\}\n\nul\.log li \{\n\	color\: \#666666\;\n\	list\-style\: none\;\n\	padding\-left\: 10px\;\n\}\n\nul\.log li\.dark \{\n\	background\-color\: \#E3E3E3\;\n\}\n\n\#menuEdit td \{\n\	line\-height\: 32px\;\n\}\n\&lt;\/style\&gt;\n\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\n\	\&lt;div class\=\&quot;bg_color1\&quot; id\=\&quot;idett\&quot;\&gt;\n\	\	\&lt;\!\-\-公共货架\-\-\&gt;\n\	\	\&lt;div class\=\&quot;pagebody1\&quot; style\=\&quot;height\:700px\&quot;\&gt;\n\n\n\n\n\	\	\	\&lt;div class\=\&quot;wid\&quot;\&gt;\n\	\	\	\	\&lt;ul class\=\&quot;ht1\&quot;\&gt;\n\	\	\	\	\	\&lt;li class\=\&quot;big3\&quot; style\=\&quot;display\:inline\;\&quot;\&gt;\&lt;a\n\	\	\	\	\	\	href\=\&quot;\$\{ctx\}\/public\/publicItems\&quot;\&gt;配件市场\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\&lt;li class\=\&quot;big4\&quot; style\=\&quot;display\:inline\;\&quot;\&gt;\&lt;a\n\	\	\	\	\	\	href\=\&quot;\$\{ctx\}\&quot;\&gt;精品市场\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\&lt;\/ul\&gt;\n\	\	\	\	\&lt;div\&gt;\&lt;\/div\&gt;\n\	\	\	\	\&lt;div class\=\&quot;pagebody1_right\&quot;\&gt;\n\	\	\	\	\	\&lt;form id\=\&quot;searchPublicForm\&quot; name\=\&quot;searchPublicForm\&quot;\n\	\	\	\	\	\n\	\	\	\	\	\	action\=\&quot;\$\{ctx\}\/public\/publicItems\&quot; method\=\&quot;post\&quot;\&gt;\n\	\	\	\	\	\	\&lt;input name\=\&quot;title\&quot; type\=\&quot;text\&quot; class\=\&quot;input4\&quot; placeholder\=\&quot;标题\&quot;\n\	\	\	\	\	\	\	value\=\&quot;\$\{items\.title\}\&quot; \/\&gt; \&lt;input name\=\&quot;content\&quot; type\=\&quot;text\&quot;\n\	\	\	\	\	\	\	class\=\&quot;input4\&quot; placeholder\=\&quot;描述\&quot; value\=\&quot;\$\{items\.content\}\&quot; \/\&gt; \&lt;input\n\	\	\	\	\	\	\	type\=\&quot;text\&quot; class\=\&quot;input4\&quot; id\=\&quot;parentMenuObj\&quot; name\=\&quot;brandName\&quot;\n\	\	\	\	\	\	\	value\=\&quot;\$\{brandName\}\&quot; readonly\=\&quot;true\&quot;\n\	\	\	\	\	\	\	onclick\=\&quot;showMenu\(\)\; return false\;\&quot; placeholder\=\&quot;汽车品牌\&quot;\&gt;\&lt;\/span\&gt; \&lt;input\n\	\	\	\	\	\	\	type\=\&quot;hidden\&quot; id\=\&quot;parentId\&quot; name\=\&quot;brandId\&quot;\n\	\	\	\	\	\	\	value\=\&quot;\$\{items\.brandId\}\&quot;\&gt; \&lt;select class\=\&quot;input1\&quot;\n\	\	\	\	\	\	\	\	id\=\&quot;partId\&quot; name\=\&quot;partId\&quot; placeholder\=\&quot;配件类别\&quot;\&gt;\n\	\	\	\	\	\	\	\	\	\&lt;option value\=\&quot;\&quot;\&gt;请选择\&lt;\/option\&gt;\n\	\	\	\	\	\	\	\	\	\&lt;c\:forEach var\=\&quot;cp\&quot; items\=\&quot;\$\{partsList\}\&quot;\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;c\:if test\=\&quot;\$\{cp\.id\!\=items\.partId\}\&quot;\&gt;\n\	\	\	\	\	\	\	\	\	\	\	\&lt;option value\=\&quot;\$\{cp\.id\}\&quot;\&gt;\$\{cp\.name\}\&lt;\/option\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;\/c\:if\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;c\:if test\=\&quot;\$\{cp\.id\=\=items\.partId\}\&quot;\&gt;\n\	\	\	\	\	\	\	\	\	\	\	\&lt;option value\=\&quot;\$\{cp\.id\}\&quot; selected\&gt;\$\{cp\.name\}\&lt;\/option\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;\/c\:if\&gt;\n\n\	\	\	\	\	\	\	\	\	\&lt;\/c\:forEach\&gt;\n\	\	\	\	\	\	\	\&lt;\/select\&gt; \&lt;input name\=\&quot;\&quot; onclick\=\&quot;searchList\(\)\;\&quot; type\=\&quot;button\&quot;\n\	\	\	\	\	\	\	\	value\=\&quot;搜\&amp;nbsp\;\&amp;nbsp\;索\&quot; class\=\&quot;pagebody1_btn\&quot; \/\&gt;\n\	\	\	\	\	\	\	\	\&lt;div id\=\&quot;menuContent\&quot; class\=\&quot;menuContent\&quot;\n\	\	\	\	\	\	\	\	\	style\=\&quot;display\:none\; position\: absolute\;\&quot;\&gt;\n\	\	\	\	\	\	\	\	\	\&lt;ul id\=\&quot;menuTree\&quot; class\=\&quot;ztree\&quot; style\=\&quot;margin\-top\:0\;\&quot;\&gt;\&lt;\/ul\&gt;\n\	\	\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;\/form\&gt;\n\n\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\&lt;div class\=\&quot;clear\&quot;\&gt;\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;pagebody2 mr1 wid\&quot;\&gt;\n\	\	\	\	\&lt;div class\=\&quot;wid2\&quot;\&gt;\n\	\	\	\	\	\&lt;c\:forEach var\=\&quot;sale\&quot; items\=\&quot;\$\{page\.list\}\&quot;\&gt;\n\	\	\	\	\	\	\&lt;ul class\=\&quot;qps\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;a href\=\&quot;\#\&quot; onclick\=\&quot;productgroupedit\(\'\$\{sale\.id\}\'\)\;\&quot;\n\	\	\	\	\	\	\	\	class\=\&quot;fban\&quot;\&gt;\n\	\	\	\	\	\	\	\	\&lt;div class\=\&quot;goods\&quot;\&gt;\n\	\	\	\	\	\	\	\	\	\&lt;img src\=\&quot;\$\{sale\.picUrl\}\&quot; \/\&gt;\n\	\	\	\	\	\	\	\	\	\&lt;div class\=\&quot;goods1\&quot;\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;h3\&gt;\n\	\	\	\	\	\	\	\	\	\	\	\&lt;span title\=\&quot;\$\{sale\.title\}\&quot; style\=\&quot;cursor\:pointer\;\&quot;\&gt;\n\	\	\	\	\	\	\	\	\	\	\	\	\$\{sale\.title\} \&lt;\/span\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;\/h3\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;p\&gt;\n\	\	\	\	\	\	\	\	\	\	\	\&lt;span title\=\&quot;\$\{sale\.content\}\&quot; style\=\&quot;cursor\:pointer\;\&quot;\&gt;\n\n\	\	\	\	\	\	\	\	\	\	\	\	\$\{sale\.content\} \&lt;\/span\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;p\&gt;\n\	\	\	\	\	\	\	\	\	\	\	\&lt;fmt\:formatDate value\=\&quot;\$\{sale\.updateTime\}\&quot;\n\	\	\	\	\	\	\	\	\	\	\	\	pattern\=\&quot;yyyy\-MM\-dd HH\:mm\:ss\&quot; \/\&gt;\n\	\	\	\	\	\	\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\	\	\&lt;\/ul\&gt;\n\	\	\	\	\	\&lt;\/c\:forEach\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;clear\&quot;\&gt;\&lt;\/div\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\n\	\	\	\&lt;div class\=\&quot;clear\&quot;\&gt;\&lt;\/div\&gt;\n\n\	\	\	 \&lt;\!\-\-翻页按钮\-\-\&gt;\n\	\	\	\&lt;ul class\=\&quot;page\&quot;\&gt;\n\	\	\	\	\n\	\	\	\n\	\	\	\	\	\	\&lt;c\:forEach begin\=\&quot;1\&quot; end\=\&quot;\$\{page\.pages\}\&quot; var\=\&quot;pageSize\&quot;\&gt;\n\	\	\	\	\	    \&lt;c\:choose\&gt;\n\	\	\	\	\	    \&lt;c\:when test\=\&quot;\$\{pageSize\=\=page\.pageNum\}\&quot;\&gt;\n\	\	\	\	\	    \&lt;a href\=\&quot;\$\{ctx\}\/public\/publicItems\?pageNo\=\$\{pageSize\}\&amp;pageSize\=8\&amp;title\=\$\{items\.title\}\&amp;content\=\$\{items\.content\}\&amp;brandId\=\$\{items\.brandId\}\&amp;brandName\=\$\{brandName\}\&amp;partId\=\$\{items\.partId\}\&quot; style\=\&quot;background\: \#C30D23 none repeat scroll 0\% 0\%\;color\:\#ffffff\;\&quot;\&gt;\$\{pageSize\}\&lt;\/a\&gt;\n\	\	\	\	\	     \&lt;\/c\:when\&gt;\n\	\	\	\	\	   \&lt;c\:otherwise\&gt;\n\	\	\	\	\	   \&lt;a href\=\&quot;\$\{ctx\}\/public\/publicItems\?pageNo\=\$\{pageSize\}\&amp;pageSize\=8\&amp;title\=\$\{items\.title\}\&amp;content\=\$\{items\.content\}\&amp;brandId\=\$\{items\.brandId\}\&amp;brandName\=\$\{brandName\}\&amp;partId\=\$\{items\.partId\}\&quot;\&gt;\$\{pageSize\}\&lt;\/a\&gt;\n\	\	\	\	\	   \&lt;\/c\:otherwise\&gt;\n\	\	\	\	\	   \&lt;\/c\:choose\&gt;\n\	\	\	\	\	\	\n\	\	\	\	\	\	\&lt;\/c\:forEach\&gt;\n\	\	\	\	\n\	\	\	\&lt;\/ul\&gt; \n\	\	\	\&lt;div class\=\&quot;clear\&quot;\&gt;\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/div\&gt;\n\	\&lt;div class\=\&quot;bg_color2\&quot;\&gt;\n\	\	\&lt;div class\=\&quot;footer wid\&quot;\&gt;Copyright \© 2014\-2024 www\.xiupeilian\.com\n\	\	\	All Rights Reserved\. 修配连 版权所有\&lt;\/div\&gt;\n\	\&lt;\/div\&gt;\n\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Program Files\Git\cmd\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="boyue &lt;lover326@sina.cn&gt;" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/PrimeMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/PartsMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/constant/SysConstant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miaodiyun/httpapidemo/common/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/sms.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/Cache/RedisCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/Cache/RedisCache1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/model/SysUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/CityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/CityService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/model/City.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/phoneLogin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aliyun/oss/demo/HelloOSS.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ossTes.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-redis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/ItemsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/ItemsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/ItemsMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/PublicItemsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/ItemsMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/public/publicItems.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/BrandMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ossTest.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/MenuMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/session/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/RoleMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/session/UserRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/session/SessionIntercepter.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index/top.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/staff/staffList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/staff/salebusinessEdit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/web/CityAction.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/vo/CompanyUploadVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/CompanyService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/CompanyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/CompanyMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/CompanyMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/public/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/CompanyController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/company/salebusinessEdit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-cache.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="carpart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="carpart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="carpart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-context-support:5.1.6.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="carpart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.session:spring-session-data-redis:2.0.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="carpart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.session:spring-session-data-redis:2.0.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="org.springframework.session:spring-session-core:2.0.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="90" />
+    <option name="width" value="1750" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="carpart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carpart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carpart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carpart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carpart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carpart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.278481" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xiupeilian.carpart.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\carpart\src\main\resources" />
+      <recent name="E:\idea\carpart\src\main\webapp\WEB-INF\public" />
+      <recent name="E:\idea\carpart\src\main\java\com\xiupeilian\carpart\vo" />
+      <recent name="E:\idea\carpart\src\main\java\com\xiupeilian\carpart\service" />
+      <recent name="E:\idea\carpart\src\main\webapp\WEB-INF\company" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\carpart\src\main\java\com\xiupeilian\carpart\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat8.5">
+    <configuration name="HelloOSS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aliyun.oss.demo.HelloOSS" />
+      <module name="carpart" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aliyun.oss.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SHA1Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiupeilian.carpart.util.SHA1Util" />
+      <module name="carpart" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiupeilian.carpart.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat8.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8089/carpart/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="carpart:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/carpart" />
+          </settings>
+        </artifact>
+        <file path="F:/pic">
+          <settings>
+            <option name="CONTEXT_PATH" value="/pic" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_carpart_2" />
+        <option name="HTTP_PORT" value="8089" />
+        <option name="JNDI_PORT" value="1088" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53675" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="49856" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="carpart:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat8.5" />
+      <item itemvalue="Application.SHA1Util" />
+      <item itemvalue="Application.HelloOSS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloOSS" />
+        <item itemvalue="Application.SHA1Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b8ee87-2faf-4cf0-981d-575998d0e9fc" name="Default" comment="" />
+      <created>1566353986893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566353986893</updated>
+      <workItem from="1566353992046" duration="2695000" />
+      <workItem from="1566356704780" duration="15402000" />
+      <workItem from="1566439838591" duration="14208000" />
+      <workItem from="1566473289488" duration="6427000" />
+      <workItem from="1566483047865" duration="668000" />
+      <workItem from="1566522550969" duration="6097000" />
+      <workItem from="1566633327434" duration="602000" />
+      <workItem from="1566731408145" duration="593000" />
+      <workItem from="1566788325835" duration="7808000" />
+      <workItem from="1566806995374" duration="2444000" />
+      <workItem from="1566809501650" duration="2095000" />
+      <workItem from="1566817313738" duration="28531000" />
+      <workItem from="1566954369571" duration="2154000" />
+      <workItem from="1566956582352" duration="10096000" />
+      <workItem from="1566974090525" duration="7028000" />
+      <workItem from="1567048027810" duration="15197000" />
+      <workItem from="1567125383225" duration="9070000" />
+      <workItem from="1567149912938" duration="8559000" />
+      <workItem from="1567221860745" duration="656000" />
+      <workItem from="1567336059766" duration="2038000" />
+      <workItem from="1567385437454" duration="14437000" />
+      <workItem from="1567426996764" duration="8540000" />
+      <workItem from="1567498015278" duration="6359000" />
+      <workItem from="1567605225335" duration="4355000" />
+      <workItem from="1567647307954" duration="1183000" />
+      <workItem from="1567667188452" duration="582000" />
+      <workItem from="1567674139380" duration="622000" />
+      <workItem from="1567862195937" duration="630000" />
+      <workItem from="1567998857825" duration="1105000" />
+      <workItem from="1568201291982" duration="1478000" />
+      <workItem from="1568256623307" duration="1544000" />
+      <workItem from="1569206933940" duration="103000" />
+      <workItem from="1569207108552" duration="57000" />
+      <workItem from="1569207203731" duration="2514000" />
+      <workItem from="1569289364584" duration="1603000" />
+      <workItem from="1569307232870" duration="604000" />
+      <workItem from="1569307903828" duration="2823000" />
+      <workItem from="1569372008085" duration="3232000" />
+      <workItem from="1569389300290" duration="3654000" />
+      <workItem from="1569460300456" duration="908000" />
+      <workItem from="1569487041908" duration="594000" />
+      <workItem from="1569493647088" duration="320000" />
+      <workItem from="1573990065505" duration="993000" />
+    </task>
+    <task id="LOCAL-00001" summary="我的第一次上传">
+      <created>1566475488227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566475488227</updated>
+    </task>
+    <task id="LOCAL-00002" summary="我的第一次上传">
+      <created>1566477323966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566477323966</updated>
+    </task>
+    <task id="LOCAL-00003" summary="carpart 上传">
+      <created>1566483687747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566483687747</updated>
+    </task>
+    <task id="LOCAL-00004" summary="carpart 上传小组合作">
+      <created>1567125465275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567125465275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="200608000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="-7" width="1488" height="878" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.16083916" side_tool="true" weight="0.2058011" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32872927" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.13238288" side_tool="true" visible="true" weight="0.22928177" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32867134" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" sideWeight="0.8769231" weight="0.16574585" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32937062" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24965034" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8791582" weight="0.39779004" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32872927" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32872927" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83916086" weight="0.22790055" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.4993007" weight="0.6616022" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2027972" />
+      <window_info anchor="bottom" id="Problems" order="15" weight="0.32872927" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="9" weight="0.14460285" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49966055" weight="0.31491712" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49966055" weight="0.32857144" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="我的第一次上传" />
+    <MESSAGE value="carpart 上传" />
+    <MESSAGE value="carpart 上传小组合作" />
+    <option name="LAST_COMMIT_MESSAGE" value="carpart 上传小组合作" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/web/EnterprisechargetableAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/web/EnterprisespreadAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/model/SysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/context/request/async/WebAsyncManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/model/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/session/SessionIntercepter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-677">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/model/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/CompanyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/CompanyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/CompanyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11571">
+          <caret line="399" column="11" selection-start-line="399" selection-start-column="11" selection-end-line="399" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/vo/CompanyUploadVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-cache.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/public/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1595">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/company/salebusinessEdit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4176">
+          <caret line="144" column="6" selection-start-line="144" selection-start-column="6" selection-end-line="144" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/CityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/CompanyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/DymsnServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/ItemsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/MenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/StaffServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1769">
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/task/MailTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/session/UserRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2697">
+          <caret line="93" column="24" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/PublicItemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/StaffController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/BrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/SysUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/html/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/login/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/CompanyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/servlet/Kaptcha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/util/ImageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/SysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3306">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/MenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3770">
+          <caret line="130" column="42" selection-start-line="130" selection-start-column="42" selection-end-line="130" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiupeilian/carpart/mapper/ItemsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="235" column="9" lean-forward="true" selection-start-line="145" selection-start-column="95" selection-end-line="235" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>carpart:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>carpart</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
